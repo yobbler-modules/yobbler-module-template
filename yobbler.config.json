@@ -1,0 +1,7 @@
+{
+  "moduleId": "template-module",
+  "name": "Default Module",
+  "version": "1.0.0",
+  "description": "Base template for Yobbler modules",
+  "entrypoint": "routes/dashboard/index.tsx"
+}
