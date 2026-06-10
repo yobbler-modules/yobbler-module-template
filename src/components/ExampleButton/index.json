@@ -1,0 +1,11 @@
+{
+  "nodeType": "component",
+  "name": "Action Button",
+  "properties": {
+    "variant": "primary"
+  },
+  "visualBuilder": {
+    "category": "Form",
+    "translatableKeys": ["button_text"]
+  }
+}

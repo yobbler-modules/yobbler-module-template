@@ -1,0 +1,8 @@
+{
+  "nodeType": "page",
+  "name": "Dashboard Layout",
+  "properties": {
+    "slug": "/dashboard",
+    "authRequired": true
+  }
+}

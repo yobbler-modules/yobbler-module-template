@@ -1,7 +1,9 @@
 {
   "moduleId": "template-module",
-  "name": "Default Module",
+  "name": "Default Module Blueprint",
   "version": "1.0.0",
-  "description": "Base template for Yobbler modules",
-  "entrypoint": "routes/dashboard/index.tsx"
+  "description": "Base template with co-located localization capabilities",
+  "entrypoint": "src/pages/Dashboard/index.tsx",
+  "defaultLocale": "en",
+  "supportedLocales": ["en", "sv"]
 }
